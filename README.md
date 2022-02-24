@@ -1,8 +1,10 @@
+#### `about:me`
+
 My name is Ian (he/him), welcome to my :octocat: profile. My philosophy in life is that keeping a beginner's mindset, staying grateful and helping others are the keys to success. I try to do all three of those things and stumble on the way.
 
 I'm also bad at organizing profile pages, so here's a brain dump. Enjoy!
 
-#### `about:me`
+#### `about:facts`
 
 - 📍 Live in Atlanta, GA.
 - 📥 Currently job is Staff Production Engineer @Shopify (hey Shopifolk!).
@@ -12,7 +14,7 @@ I'm also bad at organizing profile pages, so here's a brain dump. Enjoy!
 - 🧼 In recovery (13 clean + serene).
 - ❤️ Is the answer.
 
-#### `some:skills`
+#### `about:skills`
 
 - 🤝 Helping others first
 - 💎 Ruby (the GOAT)
@@ -21,7 +23,7 @@ I'm also bad at organizing profile pages, so here's a brain dump. Enjoy!
 - 🧪 React + Typescript
 - 💥 Segfaulting in C
 
-#### `projects:oss`
+#### `about:opensource`
 
 - [Add support for native Rust extensions in Ruby](https://github.com/rubygems/rubygems/pull/5175)
 - [Octodown for GitHub markdown previewing](https://github.com/ianks/octodown)
@@ -29,7 +31,7 @@ I'm also bad at organizing profile pages, so here's a brain dump. Enjoy!
 - [A simple workflow system to gather aggregate attributes for something](https://github.com/ianks/attr-gather)
 - [Compile `Dry::Schema` into a JSON schema](https://github.com/dry-rb/dry-schema/pull/369)
 
-#### `misc:stuff`
+#### `about:misc`
 
 - [🎥 Talk about GraphQL + Ruby](https://youtu.be/GdZUeHUEj00) 
 - [✍️ Some blog posts](https://medium.com/@ianks)
