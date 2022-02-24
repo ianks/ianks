@@ -4,7 +4,7 @@ My name is Ian (he/him), welcome to my :octocat: profile. I'm also bad at organi
 
 - 📍 Live in Atlanta, GA.
 - 📥 Currently job is Staff Production Engineer @Shopify (hey Shopifolk!).
-- 🎹 Produce electronic music as [fnesse](https://soundcloud.com/fnesse/sets/fnesse) and [iONik](https://soundcloud.com/iONik/tracks).
+- 🎹 Produced electronic music as [fnesse](https://soundcloud.com/fnesse/sets/fnesse) and [iONik](https://soundcloud.com/iONik/tracks).
 - 🎾 Tennis guru, Serena + Federer all day.
 - 🇬🇧 50% British, 75.2% sarcastic. 
 - 🧼 In recovery (13 clean + serene).
@@ -31,8 +31,7 @@ My name is Ian (he/him), welcome to my :octocat: profile. I'm also bad at organi
 
 - [🎥 Talk about GraphQL + Ruby](https://youtu.be/GdZUeHUEj00) 
 - [✍️ Some blog posts](https://medium.com/@ianks)
-- More coming soon...
 
 ---
 
-[`twitter`](https://twitter.com/_ianks)  [`e-mail`](mailto:github@ianks.com)  [`linkedin`](https://www.linkedin.com/in/ikerseymer)  [`www`](https://ianks.com)
+[`twitter`](https://twitter.com/_ianks) [`e-mail`](mailto:github@ianks.com) [`linkedin`](https://www.linkedin.com/in/ikerseymer) [`www`](https://ianks.com) [web3](https://app.ens.domains/name/ianks.eth/details)
