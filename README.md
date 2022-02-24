@@ -34,4 +34,4 @@ My name is Ian (he/him), welcome to my :octocat: profile. I'm also bad at organi
 
 ---
 
-[`twitter`](https://twitter.com/_ianks) [`e-mail`](mailto:github@ianks.com) [`linkedin`](https://www.linkedin.com/in/ikerseymer) [`www`](https://ianks.com) [web3](https://app.ens.domains/name/ianks.eth/details)
+[`twitter`](https://twitter.com/_ianks) [`e-mail`](mailto:github@ianks.com) [`linkedin`](https://www.linkedin.com/in/ikerseymer) [`www`](https://ianks.com) [`eth`](https://app.ens.domains/name/ianks.eth/details)
