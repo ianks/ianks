@@ -3,9 +3,10 @@ My name is Ian (he/him), welcome to my :octocat: profile. I'm also bad at organi
 #### `about:me`
 
 - 📍 Live in Atlanta, GA.
-- 📥 Currently employted as Staff Production Engineer @Shopify (hey Shopifolk!).
-- 🎹 Produce electronic music as [fnesse](https://soundcloud.com/fnesse/sets/fnesse) and [iONik](https://soundcloud.com/iONik/tracks].
+- 📥 Currently job is Staff Production Engineer @Shopify (hey Shopifolk!).
+- 🎹 Produce electronic music as [fnesse](https://soundcloud.com/fnesse/sets/fnesse) and [iONik](https://soundcloud.com/iONik/tracks).
 - 🎾 Tennis guru, Serena + Federer all day.
+- 🇬🇧 50% British, 75.2% sarcastic. 
 - 🧼 In recovery (13 clean + serene).
 - ❤️ Is the answer.
 
