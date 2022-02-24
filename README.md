@@ -1,4 +1,6 @@
-My name is Ian (he/him), welcome to my :octocat: profile. I'm also bad at organizing profile pages, so here's a brain dump. Enjoy!
+My name is Ian (he/him), welcome to my :octocat: profile. My philosophy in life is that keeping a beginner's mindset, staying grateful and helping others are the keys to success. I try to do all three of those things and stumble on the way.
+
+I'm also bad at organizing profile pages, so here's a brain dump. Enjoy!
 
 #### `about:me`
 
