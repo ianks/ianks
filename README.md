@@ -10,6 +10,15 @@ My name is Ian (he/him), welcome to my :octocat: profile. I'm also bad at organi
 - 🧼 In recovery (13 clean + serene).
 - ❤️ Is the answer.
 
+#### `some:skills`
+
+- 🤝 Helping others first
+- 💎 Ruby (the GOAT)
+- 🤘 Rust
+- 🤔 Kubernetes + Terraform
+- 🧪 React + Typescript
+- 💥 Segfaulting in C
+
 #### `projects:oss`
 
 - [Add support for native Rust extensions in Ruby](https://github.com/rubygems/rubygems/pull/5175)
@@ -18,7 +27,7 @@ My name is Ian (he/him), welcome to my :octocat: profile. I'm also bad at organi
 - [A simple workflow system to gather aggregate attributes for something](https://github.com/ianks/attr-gather)
 - [Compile `Dry::Schema` into a JSON schema](https://github.com/dry-rb/dry-schema/pull/369)
 
-### `misc:me`
+#### `misc:stuff`
 
 - [🎥 Talk about GraphQL + Ruby](https://youtu.be/GdZUeHUEj00) 
 - [✍️ Some blog posts](https://medium.com/@ianks)
