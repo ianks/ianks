@@ -17,8 +17,8 @@ I'm also bad at organizing profile pages, so here's a brain dump. Enjoy!
 #### `about:skills`
 
 - 🤝 Helping others first
-- 💎 Ruby (the GOAT)
 - 🤘 Rust
+- 💎 Ruby
 - 🤔 Kubernetes + Terraform
 - 🧪 React + Typescript
 - 💥 Segfaulting in C
